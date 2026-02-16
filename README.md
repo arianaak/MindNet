@@ -30,7 +30,7 @@ Testare: Unit Testing cu JUnit 5 pentru verificarea modelelor și logică de bus
 
 🚀 Cum se rulează
 
-Clonează repozitoriul: git clone https://github.com/utilizator/MindNet.git
+Clonează repozitoriul: git clone https://github.com/arianaaak/MindNet.git
 
 Deschide proiectul în IntelliJ IDEA.
 
