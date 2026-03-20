@@ -40,4 +40,3 @@ Rulează aplicația (DemoApplication.java).
 
 Accesează: http://localhost:8080 (Login implicit: admin / admin123).
 
-Proiect dezvoltat ca parte a cerințelor de laborator pentru Sisteme Informatice.
